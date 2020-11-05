@@ -1,10 +1,5 @@
-# Hey there
+# Hey there <img src="https://i.imgur.com/17XnhZI.png" width="30px">
+My name is Sebastian, I'm a highschool student, aspiring to be a Software Engineer. I'm currently working on some complex projects that will be here soon. I can be found on Discord (duck.#0586).
 
-<!--
-**ducktheduck/ducktheduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Sebastian, highschool student, aspiring to be a Software Engineer.
-I made a customisable Discord bot, *Atreus* for a special community. 
-▪ I'm currently working on a special project made in Python and another few programming languages.
-▪ You can find me on:
-  ◾ Discord: duck.#0586
+![](https://github-readme-stats.vercel.app/api?username=ducktheduck&theme=dark&show_icons=true)
