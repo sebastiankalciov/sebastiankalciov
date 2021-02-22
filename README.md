@@ -3,3 +3,5 @@ My name is *Sebastian*, I'm a highschool student, aspiring to be a *Software Eng
 > Talk is cheap. Show me the code. - Linus Torvalds
 
 ![](https://github-readme-stats.vercel.app/api?username=ducktheduck&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ducktheduck&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
